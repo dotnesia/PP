@@ -19,9 +19,15 @@ Jika Sistem tsb adalah mix, ada web dan MD, taruh di salah satu saja yang mungki
   # PENAMAAN GIT
   
   untuk penamaan git disini, aturan :
+  
   [JENIS]-NAMA_APP_SYSTEM-BAHASA_PROGRAM
+  
   contoh :
+  
   MD-Calculator_app-Flutter
+  
   WEB-Payment_gate_bca-Laravel
+  
   WEB-POS_Indomaret_cipete_jakarta-ODOO
+  
   DESKTOP-Unlock_Huawei_P30-Delphi
