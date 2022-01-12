@@ -6,7 +6,9 @@ Untuk Penempatan yang mungkin diharuskan menampilakan Privacy Policies, ataupun 
 Per Folder, per Sub, per Project
 
 Web -> [Nama Sub] -> [Nama Project]
+
 MD -> [Nama Sub] -> [Nama Project]
+
 Desktop -> [Nama Sub] -> [Nama Project]
   
 Web, adalah untuk website only mungkin
